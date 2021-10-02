@@ -1,0 +1,17 @@
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Application.dll
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Domain.dll
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.AssemblyInfoInputs.cache
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.AssemblyInfo.cs
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Infrastructure.deps.json
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Infrastructure.dll
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\ref\Hestia.Infrastructure.dll
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Infrastructure.pdb
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Application.pdb
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\bin\Debug\net5.0\Hestia.Domain.pdb
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.csprojAssemblyReference.cache
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.csproj.CopyComplete
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.dll
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\ref\Hestia.Infrastructure.dll
+C:\workspace\projects\Hestia\Infrastructure\Hestia.Infrastructure\obj\Debug\net5.0\Hestia.Infrastructure.pdb

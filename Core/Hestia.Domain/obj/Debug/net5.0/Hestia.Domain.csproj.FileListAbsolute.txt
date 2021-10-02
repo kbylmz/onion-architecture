@@ -1,0 +1,11 @@
+C:\workspace\projects\Hestia\Core\Hestia.Domain\bin\Debug\net5.0\Hestia.Domain.deps.json
+C:\workspace\projects\Hestia\Core\Hestia.Domain\bin\Debug\net5.0\Hestia.Domain.dll
+C:\workspace\projects\Hestia\Core\Hestia.Domain\bin\Debug\net5.0\ref\Hestia.Domain.dll
+C:\workspace\projects\Hestia\Core\Hestia.Domain\bin\Debug\net5.0\Hestia.Domain.pdb
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\Hestia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\Hestia.Domain.AssemblyInfoInputs.cache
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\Hestia.Domain.AssemblyInfo.cs
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\Hestia.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\Hestia.Domain.dll
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\ref\Hestia.Domain.dll
+C:\workspace\projects\Hestia\Core\Hestia.Domain\obj\Debug\net5.0\Hestia.Domain.pdb

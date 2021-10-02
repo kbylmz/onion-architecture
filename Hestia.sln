@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{1C50DFF9-EE45-4F0E-96C1-8AFBE923D5F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{594CE482-A59A-4873-A203-94F8FA8716C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{33213147-F287-4CB2-BE26-E5A5282E2668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hestia.Domain", "Core\Hestia.Domain\Hestia.Domain.csproj", "{27283021-6346-47A3-AF60-D124F5505D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hestia.Application", "Core\Hestia.Application\Hestia.Application.csproj", "{41C87E69-457A-4167-BDDF-E1541FA8669A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hestia.Infrastructure", "Infrastructure\Hestia.Infrastructure\Hestia.Infrastructure.csproj", "{6C59CE9C-644E-4597-A78C-1E2F8B8427C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hestia.Api", "Presentation\Hestia.Api\Hestia.Api.csproj", "{42B08167-803D-424D-B0FE-1017826BB58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27283021-6346-47A3-AF60-D124F5505D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27283021-6346-47A3-AF60-D124F5505D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27283021-6346-47A3-AF60-D124F5505D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27283021-6346-47A3-AF60-D124F5505D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C87E69-457A-4167-BDDF-E1541FA8669A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C87E69-457A-4167-BDDF-E1541FA8669A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C87E69-457A-4167-BDDF-E1541FA8669A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C87E69-457A-4167-BDDF-E1541FA8669A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C59CE9C-644E-4597-A78C-1E2F8B8427C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C59CE9C-644E-4597-A78C-1E2F8B8427C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C59CE9C-644E-4597-A78C-1E2F8B8427C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C59CE9C-644E-4597-A78C-1E2F8B8427C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B08167-803D-424D-B0FE-1017826BB58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B08167-803D-424D-B0FE-1017826BB58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B08167-803D-424D-B0FE-1017826BB58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B08167-803D-424D-B0FE-1017826BB58E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27283021-6346-47A3-AF60-D124F5505D3E} = {1C50DFF9-EE45-4F0E-96C1-8AFBE923D5F7}
+		{41C87E69-457A-4167-BDDF-E1541FA8669A} = {1C50DFF9-EE45-4F0E-96C1-8AFBE923D5F7}
+		{6C59CE9C-644E-4597-A78C-1E2F8B8427C5} = {594CE482-A59A-4873-A203-94F8FA8716C8}
+		{42B08167-803D-424D-B0FE-1017826BB58E} = {33213147-F287-4CB2-BE26-E5A5282E2668}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E7664AA-63B1-42CA-B061-7E5CD5AA01E4}
+	EndGlobalSection
+EndGlobal

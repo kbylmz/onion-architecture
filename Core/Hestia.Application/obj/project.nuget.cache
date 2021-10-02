@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "62ciQm1YEfPCdfHaXSND156TpKOTiib0rtPirWF7VA7L3uH0nj6nMD9kxEQx+tX47pr+TBhRVPz7Hv1lF19M/w==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\projects\\Hestia\\Core\\Hestia.Application\\Hestia.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\byilmaz\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\byilmaz\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\byilmaz\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\byilmaz\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\byilmaz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

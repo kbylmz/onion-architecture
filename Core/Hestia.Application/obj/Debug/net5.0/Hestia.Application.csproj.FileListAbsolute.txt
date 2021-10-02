@@ -1,0 +1,15 @@
+C:\workspace\projects\Hestia\Core\Hestia.Application\bin\Debug\net5.0\Hestia.Application.deps.json
+C:\workspace\projects\Hestia\Core\Hestia.Application\bin\Debug\net5.0\Hestia.Application.dll
+C:\workspace\projects\Hestia\Core\Hestia.Application\bin\Debug\net5.0\ref\Hestia.Application.dll
+C:\workspace\projects\Hestia\Core\Hestia.Application\bin\Debug\net5.0\Hestia.Application.pdb
+C:\workspace\projects\Hestia\Core\Hestia.Application\bin\Debug\net5.0\Hestia.Domain.dll
+C:\workspace\projects\Hestia\Core\Hestia.Application\bin\Debug\net5.0\Hestia.Domain.pdb
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.csprojAssemblyReference.cache
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.AssemblyInfoInputs.cache
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.AssemblyInfo.cs
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.csproj.CoreCompileInputs.cache
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.csproj.CopyComplete
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.dll
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\ref\Hestia.Application.dll
+C:\workspace\projects\Hestia\Core\Hestia.Application\obj\Debug\net5.0\Hestia.Application.pdb
